@@ -1,5 +1,5 @@
 <x-layout>
-    title="Home-Elon Musk"
+    Home-Elon Musk
     
     <section class="text-center">
         <h1>Elon Musk</h1>

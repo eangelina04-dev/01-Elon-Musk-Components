@@ -1,6 +1,6 @@
-<x-layout class="bg-white">
-    title="Blog-Elon Musk"
-    
+<x-layout class="bg-white dark:bg-neutral-950">
+    <strong>Blog-Elon Musk</strong>
+
     <section class="text-center">
         <h1>Blog</h1>
         <h2>Insights and Updates</h2>
